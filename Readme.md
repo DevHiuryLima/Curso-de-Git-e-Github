@@ -1,4 +1,4 @@
-#Curso de Git e Github para iniciantes
+# Curso de Git e Github para iniciantes
 
 Este é um repositório teste para ensinar como o Git e GitHub funciona.i
 
