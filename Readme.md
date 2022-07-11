@@ -16,4 +16,4 @@ O curso tem aproximadamente 2h de aula, sendo o conteúdo e dividido de maneira 
 
 - Extras: coisas simples, mas que podem ajudar bastante ao utilizar o Git.
 
-Saiba mais em: <a href="https://willianjusten.com.br" target="_blank">willianjusten.com.br</a>.
+Saiba mais em: <a href="https://willianjusten.com.br" target="_blank">willianjusten.com.br</a>
